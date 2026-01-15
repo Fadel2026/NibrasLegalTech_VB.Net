@@ -2,6 +2,7 @@
 Imports Newtonsoft.Json
 
 'fadel saleem al hardan
+'rafif nawwaf
 Imports System.Media
 Imports System.Speech.Synthesis  ' For Text-to-Speech
 Imports System.Globalization
@@ -2042,3 +2043,4 @@ Public Class InformationAnalysis_Form
 
 
 End Class
+
